@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/virunpatch/github_page/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/virunpatch/github_page/static/js/main.59fd3e28.chunk.js",
-    "main.js.map": "/virunpatch/github_page/static/js/main.59fd3e28.chunk.js.map",
-    "runtime-main.js": "/virunpatch/github_page/static/js/runtime-main.2e5d111a.js",
-    "runtime-main.js.map": "/virunpatch/github_page/static/js/runtime-main.2e5d111a.js.map",
-    "static/js/2.1b4bff2c.chunk.js": "/virunpatch/github_page/static/js/2.1b4bff2c.chunk.js",
-    "static/js/2.1b4bff2c.chunk.js.map": "/virunpatch/github_page/static/js/2.1b4bff2c.chunk.js.map",
-    "static/js/3.e61d9a84.chunk.js": "/virunpatch/github_page/static/js/3.e61d9a84.chunk.js",
-    "static/js/3.e61d9a84.chunk.js.map": "/virunpatch/github_page/static/js/3.e61d9a84.chunk.js.map",
-    "index.html": "/virunpatch/github_page/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/virunpatch/github_page/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1b4bff2c.chunk.js.LICENSE.txt": "/virunpatch/github_page/static/js/2.1b4bff2c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/virunpatch/github_page/static/media/logo.6ce24c58.svg"
+    "main.css": "/github_page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/github_page/static/js/main.59fd3e28.chunk.js",
+    "main.js.map": "/github_page/static/js/main.59fd3e28.chunk.js.map",
+    "runtime-main.js": "/github_page/static/js/runtime-main.34411331.js",
+    "runtime-main.js.map": "/github_page/static/js/runtime-main.34411331.js.map",
+    "static/js/2.1b4bff2c.chunk.js": "/github_page/static/js/2.1b4bff2c.chunk.js",
+    "static/js/2.1b4bff2c.chunk.js.map": "/github_page/static/js/2.1b4bff2c.chunk.js.map",
+    "static/js/3.e61d9a84.chunk.js": "/github_page/static/js/3.e61d9a84.chunk.js",
+    "static/js/3.e61d9a84.chunk.js.map": "/github_page/static/js/3.e61d9a84.chunk.js.map",
+    "index.html": "/github_page/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/github_page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1b4bff2c.chunk.js.LICENSE.txt": "/github_page/static/js/2.1b4bff2c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github_page/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e5d111a.js",
+    "static/js/runtime-main.34411331.js",
     "static/js/2.1b4bff2c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.59fd3e28.chunk.js"
